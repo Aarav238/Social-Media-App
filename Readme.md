@@ -1,3 +1,6 @@
 # It is a MERN Social media app
 
-## backend complete
+## project completed
+I will update the readme soon.
+---
+
